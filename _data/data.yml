@@ -83,20 +83,21 @@ experiences:
           - Key Achievements 
               - Reward for excellence at work for employee of trimester 2018
               - Management of infrastructure more than 300 employees
-              - Configuration, installation of all IT devices for 6 offices in Brazil, two in Paraguay and 1 in USA
+              - Configuration, installation of all IT devices for 6 offices in Brazil, two in Paraguay and one in USA
 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Desktop Support Engineer
+      time: August 2013 – May 2014
+      company: HUAWEI, São Paulo, Brazil 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Configured user accounts and email; provided permissions and passwords to allow access to network resources and FTP server
+          -	Created rules, procedures, and organisation in formerly unstructured IT operations to gain control, security, improved functionality, and greater efficiency.
+          -	Installed, configured, and administered computer hardware, wide range of software, systems, networks, printers, and scanners and provided virtual desktop support and troubleshooting to the users wherever necessary.
+          - Supported each line of business network, voice, and wireless needs in daily operations and special events from our clients.
+          - Monitored and evaluated infrastructure performance, reliability, and scalability
+          - Technically trained employees on basic troubleshooting and quick resolution of system and network issues.
+          - Created reports that were thorough and able to be comprehended by management
+
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
