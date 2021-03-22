@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Fabio Saldanha
     tagline: IT Servie Desk Engineer
-    avatar: fabio.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: fabio.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: fabio_weber1@hotmail.com
