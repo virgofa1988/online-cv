@@ -49,6 +49,15 @@ career-profile:
     title: Career Profile
     summary: |
       Seven years of work experience in Help desk support and IT project. Hands on experience with Windows Operation system, Active Directory, network, Microsoft Office, as well as exceptional ability to build user-friendly networks. Knowledgeable in negotiating contracts with clients, preparing documentation, providing progress, and delivering completed project within time and budget. My proven capabilities in client relationships, self-management, and understanding the sensitivity and complexity of a project with ease make me an ideal candidate, as well as a valuable asset for the organisation.
+      - Core Competencies - Areas of Expertise:
+       - Skills Troubleshooting & Remote Access Desktop Support
+       - Migrantion and Upgrade Operation System
+       - Problem Solving, Decision Making, Critical Thinking, Attention to Details, Leadership Abilities, Adaptable, Interpersonal.
+      - Significant knowledge and experience in IT infrastructure and helpdesk
+         - A versatile and professional Analyst with a commitment to and experience with developing innovative and creative technical solutions; able to oversee projects from inception through sign off
+         - Solid technical academic background, holding a number of specific knowledge of trade platforms used by stock market companies, and market information vendors such as Bloomberg, Reuters
+         - Monitoring the network connections using PRTG Monitor Network.
+         - Engaged and tracked priority issues with responsibility for the timely documentation, escalation (if appropriate), resolution, and closure of trouble tickets
 education:
     - degree: Post-Graduation Business Informatics
       university: ICL Business Graduate School New Zealand
@@ -100,7 +109,7 @@ experiences:
 
     - role: Support analyst
       time: August 2013 – May 2014
-      company: Amazon, London
+      company: Interfloat Company
       details: |
           - Responsible for opening the office, subsidiary Faria Lima Avenue. Perform network connectivity tests between the array and the branch office
           - Turn on vendor servers and test links:
