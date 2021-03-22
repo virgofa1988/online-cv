@@ -49,15 +49,20 @@ career-profile:
     title: Career Profile
     summary: |
       Seven years of work experience in Help desk support and IT project. Hands on experience with Windows Operation system, Active Directory, network, Microsoft Office, as well as exceptional ability to build user-friendly networks. Knowledgeable in negotiating contracts with clients, preparing documentation, providing progress, and delivering completed project within time and budget. My proven capabilities in client relationships, self-management, and understanding the sensitivity and complexity of a project with ease make me an ideal candidate, as well as a valuable asset for the organisation.
-      - Core Competencies - Areas of Expertise:
-       - Skills Troubleshooting & Remote Access Desktop Support
-       - Migrantion and Upgrade Operation System
-       - Problem Solving, Decision Making, Critical Thinking, Attention to Details, Leadership Abilities, Adaptable, Interpersonal.
       - Significant knowledge and experience in IT infrastructure and helpdesk
          - A versatile and professional Analyst with a commitment to and experience with developing innovative and creative technical solutions; able to oversee projects from inception through sign off
          - Solid technical academic background, holding a number of specific knowledge of trade platforms used by stock market companies, and market information vendors such as Bloomberg, Reuters
          - Monitoring the network connections using PRTG Monitor Network.
          - Engaged and tracked priority issues with responsibility for the timely documentation, escalation (if appropriate), resolution, and closure of trouble tickets
+      - Extraordinary technical competence
+         - High degree of technical competence, a strong learning aptitude, and an excellent work ethic
+         - Experienced in performing a wide range of technical and network administration duties including installations, debugging, maintenance, and upgrades; providing the best solutions in a short period of time.
+         - Brought fresh ideas and new perspectives to the companies, as well as a diversity of experiences and a dedication to service
+         - Some technical key strengths include, but are not limited to, extensive knowledge of Microsoft operation system, Office 365, Active Directory AD, Group Policy, Hyper-V
+      - Interpersonal, negotiation, and communication skills
+         - Emphatic professional with well-developed rapport building skills and the ability to maintain fruitful relationships with different clients, stakeholders, and businesses
+         - Established customer service skills, including conversing with new and existing clients, understanding parameters of the organisation, and fulfilling requirements
+         - Conflict resolution, troubleshooting and empathy, accommodating requests using clear communication
 education:
     - degree: Post-Graduation Business Informatics
       university: ICL Business Graduate School New Zealand
@@ -108,7 +113,7 @@ experiences:
           - Created reports that were thorough and able to be comprehended by management
 
     - role: Support analyst
-      time: August 2013 – May 2014
+      time: May 2008 – October 2009
       company: Interfloat Company
       details: |
           - Responsible for opening the office, subsidiary Faria Lima Avenue. Perform network connectivity tests between the array and the branch office
@@ -170,22 +175,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Skills Troubleshooting & Remote Access
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Migration and Upgrade Operation System
         level: 98%
 
-      - name: Angular
+      - name: Problem Solving and Decision Making
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Critical Thinking and Attention to Detail
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Leadership Abilities
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Adaptable and Interpersonal
         level: 60%
 
 footer: >
