@@ -7,33 +7,33 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Fabio Saldanha
+    tagline: IT Servie Desk Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: fabio_weber1@hotmail.com
+    phone: 021 02459907
+    website: github.com/virgofa1988/online-cv #do not add http://
+    linkedin: Fabio Saldanha
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Portugese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      # - idiom: Spanish
+      #   level: Professional
 
     interests:
       - item: Climbing
@@ -42,33 +42,23 @@ sidebar:
       - item: Snowboarding
         link:
 
-      - item: Cooking
+      - item: Surfing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Seven years of work experience in Help desk support and IT project. Hands on experience with Windows Operation system, Active Directory, network, Microsoft Office, as well as exceptional ability to build user-friendly networks. Knowledgeable in negotiating contracts with clients, preparing documentation, providing progress, and delivering completed project within time and budget. My proven capabilities in client relationships, self-management, and understanding the sensitivity and complexity of a project with ease make me an ideal candidate, as well as a valuable asset for the organisation.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Post-Graduation Business Informatics
+      university: ICL Business Graduate School New Zealand
+      time: 2020 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Postgraduate Diploma in Business is a Level 8 qualification consisting of eight papers taught over one year. The teaching materials have been designed by Southern Cross University and successful completion will result in an NZQA-approved award of the Postgraduate Diploma in Business from ICL Graduate Business School.
+
+    - degree: Bachelor of Information System
+      university: Sumare University Sao Paulo Brazil
+      time: 201 - 2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,9 +68,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Service Desk Engineer
+      time: May 2014 - Feb 2019
+      company: Brokerage Company
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -91,8 +81,8 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+          - Meets and discusses project requirements, implementations, and operational support to understand and exceed stakeholder expectations with ease.
+          - Provides second and third level helpdesk support for hardware and software through virtual desktop support and on-site, troubleshooting in line with business SLA
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
