@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Fabio Saldanha
     tagline: IT Service Desk Engineer
-    avatar: fabio.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: fabio.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: fabio_weber1@hotmail.com
@@ -50,19 +50,16 @@ career-profile:
     summary: |
       Seven years of work experience in Help desk support and IT project. Hands on experience with Windows Operation system, Active Directory, network, Microsoft Office, as well as exceptional ability to build user-friendly networks. Knowledgeable in negotiating contracts with clients, preparing documentation, providing progress, and delivering completed project within time and budget. My proven capabilities in client relationships, self-management, and understanding the sensitivity and complexity of a project with ease make me an ideal candidate, as well as a valuable asset for the organisation.
       - Significant knowledge and experience in IT infrastructure and helpdesk
-         - A versatile and professional Analyst with a commitment to and experience with developing innovative and creative technical solutions; able to oversee projects from inception through sign off
-         - Solid technical academic background, holding a number of specific knowledge of trade platforms used by stock market companies, and market information vendors such as Bloomberg, Reuters
-         - Monitoring the network connections using PRTG Monitor Network.
-         - Engaged and tracked priority issues with responsibility for the timely documentation, escalation (if appropriate), resolution, and closure of trouble tickets
-      - Extraordinary technical competence
-         - High degree of technical competence, a strong learning aptitude, and an excellent work ethic
-         - Experienced in performing a wide range of technical and network administration duties including installations, debugging, maintenance, and upgrades; providing the best solutions in a short period of time.
-         - Brought fresh ideas and new perspectives to the companies, as well as a diversity of experiences and a dedication to service
-         - Some technical key strengths include, but are not limited to, extensive knowledge of Microsoft operation system, Office 365, Active Directory AD, Group Policy, Hyper-V
-      - Interpersonal, negotiation, and communication skills
-         - Emphatic professional with well-developed rapport building skills and the ability to maintain fruitful relationships with different clients, stakeholders, and businesses
-         - Established customer service skills, including conversing with new and existing clients, understanding parameters of the organisation, and fulfilling requirements
-         - Conflict resolution, troubleshooting and empathy, accommodating requests using clear communication
+         - Solid technical academic background, holding a number of specific knowledge of Microsoft-based machine and applications.
+         - Microsoft Office 365.
+         - Windows Server.
+         - Cisco (VoIP).
+         - Workstation hardware maintenance.
+         - Engaged and tracked priority issues on the ticket system, escalation (if appropriate), resolution, and closure of trouble tickets
+      - Interpersonal, negotiation, and communication skills.
+         - Emphatic professional with well-developed rapport building skills and the ability to maintain fruitful relationships with different clients, stakeholders, and businesses.
+         - Established customer service skills, including conversing with new and existing clients, understanding parameters of the organisation, and fulfilling requirements.
+         - Conflict resolution, troubleshooting and empathy, accommodating requests using clear communication.
 education:
     - degree: Post-Graduation Business Informatics
       university: ICL Business Graduate School New Zealand
@@ -84,44 +81,44 @@ education:
 experiences:
     - role: Service Desk Engineer
       time: May 2014 - February 2019
-      company: Brokerage Company
+      company: INTL FCSTONE -  Financial Company
       details: |
-          - Meets and discusses project requirements, implementations, and operational support to understand and exceed stakeholder expectations with ease.
-          - Provides second and third level helpdesk support for hardware and software through virtual desktop support and on-site, troubleshooting in line with business SLA
-          - Configuring and creating user accounts; supporting the users on the Microsoft Outlook Platform customization, including email issues; creates, modifies, and assigns group access in the Active Directory, and providing permissions and passwords that follow the requirements of the windows DC server, exchange server, and FTP server
-          - Provides end-to-end call management IT support requests through logging tickets; makes certain that the tickets or calls were responded to within the required time frame to meet the SLAs
-          - Makes certain all IT security requirements are met and performs within guidelines that cover all audit requirements
-          - Supports hardware and software environments such as desktop, laptops, and general network troubleshooting; and installs, configures, tests, and maintains operating systems windows 7, windows10, application software, and system management tools
-          -	Provides periodic reports for annual analysis of the project
-          - Manages and monitors clients IT systems and infrastructure, advises on hardware and software system upgrades if necessary
+          - End user support and workstation configuration.
+          - Infrastructure maintenance and credentials management. 
+          - Management of incident management application.
+          - Support and enforce information technology (IT) policies.
+          - Set up, configure and upgrade Microsoft–based machines and applications.
+          - Manage user account information, permissions, and rights, including groups. (Active Directory).
+          -	Provides periodic reports for annual analysis of the project.
+          - Support ERP system (Sun system).
           - Key Achievements 
-              - Reward for excellence at work for employee of trimester 2018
-              - Management of infrastructure more than 300 employees
-              - Configuration, installation of all IT devices for 6 offices in Brazil, two in Paraguay and one in USA
+              - Reward for excellence at work for employee of trimester 2018.
+              - Management of infrastructure more than 300 employees.
+              - Configuration, installation of all IT devices for 6 offices in Brazil, two in Paraguay and one in USA.
 
 
     - role: Desktop Support Engineer
       time: August 2013 – May 2014
       company: HUAWEI, São Paulo, Brazil 
       details: |
-          - Configured user accounts and email; provided permissions and passwords to allow access to network resources and FTP server
-          -	Created rules, procedures, and organisation in formerly unstructured IT operations to gain control, security, improved functionality, and greater efficiency.
-          -	Installed, configured, and administered computer hardware, wide range of software, systems, networks, printers, and scanners and provided virtual desktop support and troubleshooting to the users wherever necessary.
-          - Supported each line of business network, voice, and wireless needs in daily operations and special events from our clients.
-          - Monitored and evaluated infrastructure performance, reliability, and scalability
+          - End user support.
+          -	Active director user’s management.
+          -	Network foldesr access management.
+          - Installation, configuration and update Microsoft Windows, Office 365 and specialize system.
+          - Remote support.
           - Technically trained employees on basic troubleshooting and quick resolution of system and network issues.
-          - Created reports that were thorough and able to be comprehended by management
+          - Created reports that were thorough and able to be comprehended by management.
 
-    - role: Support analyst
+    - role: Service Desk Engineer
       time: May 2008 – October 2009
       company: Interfloat Company
       details: |
-          - Responsible for opening the office, subsidiary Faria Lima Avenue. Perform network connectivity tests between the array and the branch office
-          - Turn on vendor servers and test links:
-             - Mega stock market, Reuters, Bloomberg, CMA State Agency, Focus
-             - Conduct telephone tests between headquarters and branches (Faria Lima and Santana) LP = private line.
-          -	Prepare new workstations for new customers and employees by installing software, creating login and password, logging information, network points, and switch ports.
-          - Monitoring the installation of new links and equipment such as servers, routers and switches
+          - Responsible for opening the office and turn on the systems.
+          - Perform network connectivity tests between the array and the branch office.
+          -	Install and configure new workstations for new customers and employees.
+          - Active director user’s management. 
+          - Implementation of the electronic platform DMA.
+          - Monitoring the installation of new links and equipment such as servers, routers, and switches.
 # projects:
 #     title: Projects
 #     intro: >
@@ -176,10 +173,10 @@ skills:
 
     toolset:
       - name: Skills Troubleshooting & Remote Access
-        level: 98%
+        level: 90%
 
       - name: Migration & Upgrade Operation System
-        level: 98%
+        level: 90%
 
       - name: Problem Solving & Decision Making
         level: 98%
@@ -191,7 +188,7 @@ skills:
         level: 85%
 
       - name: Adaptable & Interpersonal
-        level: 60%
+        level: 80%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
